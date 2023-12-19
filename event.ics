@@ -12,7 +12,7 @@ SUMMARY:信玄パイ もくもく会オンライン - Python 以外も OK
 DTSTART:20230614T200000
 DTEND:20230614T220000
 DTSTAMP:20230531T193701Z
-UID:connpass_285777@yuukis.github.io
+UID:connpass_285777@calendar.yamanashi.dev
 DESCRIPTION:https://shingenpy.connpass.com/event/285777/
 LAST-MODIFIED:20230531T193701Z
 LOCATION: オンライン
@@ -23,7 +23,7 @@ SUMMARY:第21回 富士もくもく会  (オフライン & オンライン
 DTSTART:20230617T133000
 DTEND:20230617T170000
 DTSTAMP:20230907T124442Z
-UID:connpass_286178@yuukis.github.io
+UID:connpass_286178@calendar.yamanashi.dev
 DESCRIPTION:https://fujimokumokukai.connpass.com/event/286178/
 LAST-MODIFIED:20230907T124442Z
 LOCATION:山梨県南都留郡山中湖村平野５０６－２９６ 山
@@ -34,7 +34,7 @@ SUMMARY:第22回 富士もくもく会 (オンライン)
 DTSTART:20230928T200000
 DTEND:20230928T220000
 DTSTAMP:20231108T125319Z
-UID:connpass_295775@yuukis.github.io
+UID:connpass_295775@calendar.yamanashi.dev
 DESCRIPTION:https://fujimokumokukai.connpass.com/event/295775/
 LAST-MODIFIED:20231108T125319Z
 END:VEVENT
@@ -43,7 +43,7 @@ SUMMARY:第23回 富士もくもく会（オンライン）
 DTSTART:20231123T200000
 DTEND:20231123T220000
 DTSTAMP:20231108T125637Z
-UID:connpass_301783@yuukis.github.io
+UID:connpass_301783@calendar.yamanashi.dev
 DESCRIPTION:https://fujimokumokukai.connpass.com/event/301783/
 LAST-MODIFIED:20231108T125637Z
 END:VEVENT
@@ -52,7 +52,7 @@ SUMMARY:おいでなって！ビルド山梨
 DTSTART:20231202T150000
 DTEND:20231202T180000
 DTSTAMP:20231202T131243Z
-UID:connpass_303076@yuukis.github.io
+UID:connpass_303076@calendar.yamanashi.dev
 DESCRIPTION:https://connpass.com/event/303076/
 LAST-MODIFIED:20231202T131243Z
 LOCATION:山梨県甲府市中央4丁目3-20 コットンクラブ
@@ -63,7 +63,7 @@ SUMMARY:[Shingen.py] ワイン産地を支える! Pythonで山梨の気象
 DTSTART:20240128T130000
 DTEND:20240128T190000
 DTSTAMP:20231212T220951Z
-UID:connpass_304904@yuukis.github.io
+UID:connpass_304904@calendar.yamanashi.dev
 DESCRIPTION:https://shingenpy.connpass.com/event/304904/
 LAST-MODIFIED:20231212T220951Z
 LOCATION:山梨県甲府市北口2丁目8番1号 山梨県立図書館 交
