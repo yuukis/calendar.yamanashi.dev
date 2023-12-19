@@ -5,25 +5,12 @@ X-WR-CALDESC:山梨県で開催されるIT勉強会のカレンダー
 X-WR-CALNAME:IT勉強会 - 山梨県
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
-SUMMARY:[Shingen.py] ワイン産地を支える! Pythonで山梨の気象
- データ分析とWeb公開
-DTSTART:20240128T130000
-DTEND:20240128T190000
-DESCRIPTION:https://shingenpy.connpass.com/event/304904/
-LOCATION:山梨県甲府市北口2丁目8番1号 山梨県立図書館 交
- 流ルーム 102 号室
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:第23回 富士もくもく会（オンライン）
-DTSTART:20231123T200000
-DTEND:20231123T220000
-DESCRIPTION:https://fujimokumokukai.connpass.com/event/301783/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:第22回 富士もくもく会 (オンライン)
-DTSTART:20230928T200000
-DTEND:20230928T220000
-DESCRIPTION:https://fujimokumokukai.connpass.com/event/295775/
+SUMMARY:信玄パイ もくもく会オンライン - Python 以外も OK 
+ - vol.30
+DTSTART:20230614T200000
+DTEND:20230614T220000
+DESCRIPTION:https://shingenpy.connpass.com/event/285777/
+LOCATION: オンライン
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:第21回 富士もくもく会  (オフライン & オンライン
@@ -35,11 +22,31 @@ LOCATION:山梨県南都留郡山中湖村平野５０６－２９６ 山
  中湖情報創造館 研修室1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:信玄パイ もくもく会オンライン - Python 以外も OK 
- - vol.30
-DTSTART:20230614T200000
-DTEND:20230614T220000
-DESCRIPTION:https://shingenpy.connpass.com/event/285777/
-LOCATION: オンライン
+SUMMARY:第22回 富士もくもく会 (オンライン)
+DTSTART:20230928T200000
+DTEND:20230928T220000
+DESCRIPTION:https://fujimokumokukai.connpass.com/event/295775/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:第23回 富士もくもく会（オンライン）
+DTSTART:20231123T200000
+DTEND:20231123T220000
+DESCRIPTION:https://fujimokumokukai.connpass.com/event/301783/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:おいでなって！ビルド山梨
+DTSTART:20231202T150000
+DTEND:20231202T180000
+DESCRIPTION:https://connpass.com/event/303076/
+LOCATION:山梨県甲府市中央4丁目3-20 コットンクラブ
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Shingen.py] ワイン産地を支える! Pythonで山梨の気象
+ データ分析とWeb公開
+DTSTART:20240128T130000
+DTEND:20240128T190000
+DESCRIPTION:https://shingenpy.connpass.com/event/304904/
+LOCATION:山梨県甲府市北口2丁目8番1号 山梨県立図書館 交
+ 流ルーム 102 号室
 END:VEVENT
 END:VCALENDAR
