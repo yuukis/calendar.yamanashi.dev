@@ -4,393 +4,693 @@ PRODID:-//yuukis//yamanashi-icalendar-updater//JP
 METHOD:PUBLISH
 X-WR-CALDESC:東京都で開催されるIT勉強会イベントカレン
  ダー
-X-WR-CALNAME:IT勉強会 - 東京都
+X-WR-CALNAME:IT勉強会 - 東京都港区
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
-SUMMARY:T2  Tech Open Office #1
-DTSTART:20231215T183000
-DTEND:20231215T203000
-DTSTAMP:20231211T125433Z
-UID:connpass_304706@calendar.yamanashi.dev
-DESCRIPTION:https://connpass.com/event/304706/
-LAST-MODIFIED:20231211T125433Z
-LOCATION:東京都中央区八丁堀3丁目10-3 株式会社T2東京オフ
- ィス
+SUMMARY:サロンドアツミ #24 「re:Invent を愉しむ、徹底解説
+ 」～AWSとラスベガスへ愛をこめて！
+DTSTART:20231108T183000
+DTEND:20231108T210000
+DTSTAMP:20231108T161528Z
+UID:connpass_301224@calendar.yamanashi.dev
+DESCRIPTION:https://skyarchnetworks.connpass.com/event/301224/
+LAST-MODIFIED:20231108T161528Z
+LOCATION:東京都港区虎ノ門3-8-21 虎ノ門33森ビル6階 株式会
+ 社スカイアーチネットワークス
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:MOKU-MOKU WORKSHOP #5
-DTSTART:20231215T200000
-DTEND:20231215T220000
-DTSTAMP:20231214T182441Z
-UID:connpass_304598@calendar.yamanashi.dev
-DESCRIPTION:https://diamond-f.connpass.com/event/304598/
-LAST-MODIFIED:20231214T182441Z
-LOCATION:東京都中央区銀座３丁目８−１３ 銀座三丁目ビ
- ルディング 2F 株式会社ダイヤモンドファンタジー
+SUMMARY:エンジニアCEO/CTOが語るスタートアップでの事業
+ 開発とキャリア戦略
+DTSTART:20231109T190000
+DTEND:20231109T210000
+DTSTAMP:20231108T221443Z
+UID:connpass_300269@calendar.yamanashi.dev
+DESCRIPTION:https://timeedev.connpass.com/event/300269/
+LAST-MODIFIED:20231108T221443Z
+LOCATION:東京都港区虎ノ門1-23-1（虎ノ門ヒルズ森タワー24
+ 階） JAFCO東京本社
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:【コワキ】ガチもくもく錦糸町
-DTSTART:20231216T103000
-DTEND:20231216T210000
-DTSTAMP:20231215T093234Z
-UID:connpass_305333@calendar.yamanashi.dev
-DESCRIPTION:https://ethan-no-oheya.connpass.com/event/305333/
-LAST-MODIFIED:20231215T093234Z
-LOCATION:東京都墨田区江東橋４丁目２７−１４錦糸町パ
- ルコ6F 錦糸町パルコ店|コインスペース
+SUMMARY:欧州と日本のトラストサービスの動向
+DTSTART:20231115T130000
+DTEND:20231115T183000
+DTSTAMP:20231116T141302Z
+UID:connpass_300560@calendar.yamanashi.dev
+DESCRIPTION:https://maturi-eswg-jnsa.connpass.com/event/300560/
+LAST-MODIFIED:20231116T141302Z
+LOCATION:東京都港区芝公園2-4-1 芝パークビルB館 B1F AP浜松
+ 町 ROOM H
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:【大井町線・池上線】 定例もくもく会&交流会@旗
- の台 #093
-DTSTART:20231216T123000
+SUMMARY:オライリーによる、2024年最新技術トレンドと技
+ 術力・生産性向上の事例紹介
+DTSTART:20231115T190000
+DTEND:20231115T210000
+DTSTAMP:20231114T094724Z
+UID:connpass_299911@calendar.yamanashi.dev
+DESCRIPTION:https://cto-a.connpass.com/event/299911/
+LAST-MODIFIED:20231114T094724Z
+LOCATION:東京都港区高輪3-13-1 TKP品川カンファレンスセン
+ ターANNEX カンファレンスルーム4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adobe MAX Japan 非公式前夜祭 2023
+DTSTART:20231115T200000
+DTEND:20231115T220000
+DTSTAMP:20231114T123203Z
+UID:connpass_301032@calendar.yamanashi.dev
+DESCRIPTION:https://connpass.com/event/301032/
+LAST-MODIFIED:20231114T123203Z
+LOCATION:東京都港区新橋3-8-8 リバティ8ビル B1F 魚と地酒
+ の店 升亀 新橋店
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:【11/16開催！池田朋弘氏 登壇】自然言語でプログ
+ ラミング！Open Interpreter活用術
+DTSTART:20231116T193000
+DTEND:20231116T213000
+DTSTAMP:20231116T105318Z
+UID:connpass_300901@calendar.yamanashi.dev
+DESCRIPTION:https://fixer-cloudconfig.connpass.com/event/300901/
+LAST-MODIFIED:20231116T105318Z
+LOCATION:東京都港区芝浦1-2-3シーバンスS館23階 株式会社FI
+ XER東京本社
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SQLの世界へようこそ！基礎から学ぶデータベース
+ クエリ
+DTSTART:20231117T190000
+DTEND:20231117T210000
+DTSTAMP:20231026T114633Z
+UID:connpass_300485@calendar.yamanashi.dev
+DESCRIPTION:https://tm-study.connpass.com/event/300485/
+LAST-MODIFIED:20231026T114633Z
+LOCATION:東京都港区赤坂赤坂アークヒルズ・アーク森ビ
+ ル３４階 株式会社アイスタイル
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:香りで彩りナイト
+DTSTART:20231117T193000
+DTEND:20231117T213000
+DTSTAMP:20231026T161709Z
+UID:connpass_299761@calendar.yamanashi.dev
+DESCRIPTION:https://connpass.com/event/299761/
+LAST-MODIFIED:20231026T161709Z
+LOCATION:東京都港区東新橋1-2-5 東新橋一丁目ビル8F 株式
+ 会社High Link 汐留オフィス
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:【延期】#2 GitHub Universe&GitHub Actionsナレッジ
+DTSTART:20231119T140000
+DTEND:20231119T170000
+DTSTAMP:20231119T072814Z
+UID:connpass_300092@calendar.yamanashi.dev
+DESCRIPTION:https://github-dockyard.connpass.com/event/300092/
+LAST-MODIFIED:20231119T072814Z
+LOCATION:東京都港区六本木6-10-1 六本木ヒルズ森タワー 株
+ 式会社メルカリ
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:第12回CoderDojoたまち
+DTSTART:20231119T140000
+DTEND:20231119T163000
+DTSTAMP:20231021T163256Z
+UID:connpass_300106@calendar.yamanashi.dev
+DESCRIPTION:https://coderdojo-tamachi.connpass.com/event/300106/
+LAST-MODIFIED:20231021T163256Z
+LOCATION:東京都港区芝三丁目41番8号 駐健保会館 中会議室
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:今更聞けないAWSインテグレーション - Mackerel Drink 
+ Up #13 Tokyo
+DTSTART:20231121T190000
+DTEND:20231121T210000
+DTSTAMP:20231117T010133Z
+UID:connpass_300583@calendar.yamanashi.dev
+DESCRIPTION:https://mackerelio.connpass.com/event/300583/
+LAST-MODIFIED:20231117T010133Z
+LOCATION:東京都港区南青山6-5-55 青山サンライトビル3F 株
+ 式会社はてな 東京オフィス 3階 セミナールーム
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:【対面開催】CSカレッジ｜基礎から分かるカスタ
+ マーサクセスの全体像と取り組み方
+DTSTART:20231121T190000
+DTEND:20231121T223000
+DTSTAMP:20231120T010126Z
+UID:connpass_299879@calendar.yamanashi.dev
+DESCRIPTION:https://connpass.com/event/299879/
+LAST-MODIFIED:20231120T010126Z
+LOCATION:東京都港区東新橋1-5-2（汐留シティセンター35階
+ ） 株式会社タイミー本社イベントスペース
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OCIjp #46 Oracle Cloud Infrastructure ユーザーグループ
+DTSTART:20231121T190000
+DTEND:20231121T203000
+DTSTAMP:20231018T191753Z
+UID:connpass_299550@calendar.yamanashi.dev
+DESCRIPTION:https://fullenergy-oci.connpass.com/event/299550/
+LAST-MODIFIED:20231018T191753Z
+LOCATION:東京都港区北青山2-5-8　オラクル青山センター 
+ 日本オラクル株式会社　本社
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:【Data Haiker】第3回 Dataiku無料版ハンズオンでデー
+ タスキルをアップしよう！
+DTSTART:20231124T130000
+DTEND:20231124T170000
+DTSTAMP:20231124T161109Z
+UID:connpass_298552@calendar.yamanashi.dev
+DESCRIPTION:https://dataiku.connpass.com/event/298552/
+LAST-MODIFIED:20231124T161109Z
+LOCATION:東京都港区西新橋1-1-1 10F WeWork日比谷Fort Tower
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[ハイブリッド開催] Wantedly x Qiita Meetup #1 フロント
+ エンドのあれこれ
+DTSTART:20231124T190000
+DTEND:20231124T203000
+DTSTAMP:20231124T162041Z
+UID:connpass_300025@calendar.yamanashi.dev
+DESCRIPTION:https://wantedly.connpass.com/event/300025/
+LAST-MODIFIED:20231124T162041Z
+LOCATION:東京都港区白金台5-12-7 MG白金台ビル4F ウォンテ
+ ッドリー株式会社
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:第18回 Ras-Duino もくもく会
+DTSTART:20231125T100000
+DTEND:20231125T210000
+DTSTAMP:20231108T185619Z
+UID:connpass_301744@calendar.yamanashi.dev
+DESCRIPTION:https://ras-duino.connpass.com/event/301744/
+LAST-MODIFIED:20231108T185619Z
+LOCATION:東京都港区赤坂８丁目 赤坂８丁目
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:リアルもくもく＆ライトニングトーク会@田町
+DTSTART:20231125T130000
+DTEND:20231125T180000
+DTSTAMP:20231125T152023Z
+UID:connpass_301637@calendar.yamanashi.dev
+DESCRIPTION:https://design-commu.connpass.com/event/301637/
+LAST-MODIFIED:20231125T152023Z
+LOCATION:東京都港区芝浦3-3-6 キャンパスイノベーション
+ センター INDEST
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:【Web3開発者向け】リアル交流会＆もくもく会 #8 (
+ 11/25)の開催
+DTSTART:20231125T140000
+DTEND:20231125T180000
+DTSTAMP:20231102T101924Z
+UID:connpass_298874@calendar.yamanashi.dev
+DESCRIPTION:https://c3f.connpass.com/event/298874/
+LAST-MODIFIED:20231102T101924Z
+LOCATION:東京都港区海岸１丁目７−１ iU 竹芝サテライト
+ オフィス(東京ポートシティ竹芝オフィスタワー8F)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HarborSもくもく会＋交流会@表参道 #113
+DTSTART:20231126T130000
+DTEND:20231126T170000
+DTSTAMP:20231111T190046Z
+UID:connpass_300658@calendar.yamanashi.dev
+DESCRIPTION:https://harbors-kihonjoho.connpass.com/event/300658/
+LAST-MODIFIED:20231111T190046Z
+LOCATION:東京都港区南青山３丁目１５−９ MINOWA表参道 3
+ 階 HarborS表参道
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:【DMM x アドビ】Career XChange #2 未経験からデザイン
+ 職へ
+DTSTART:20231127T160000
+DTEND:20231127T190000
+DTSTAMP:20231127T125429Z
+UID:connpass_299803@calendar.yamanashi.dev
+DESCRIPTION:https://webcamp.connpass.com/event/299803/
+LAST-MODIFIED:20231127T125429Z
+LOCATION:東京都港区六本木三丁目2番1号 (住友不動産六本
+ 木グランドタワー) DMM.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:【プロダクト開発者によるLT&交流会】Developer's Jam
+  #01
+DTSTART:20231128T190000
+DTEND:20231128T210000
+DTSTAMP:20231127T184812Z
+UID:connpass_300592@calendar.yamanashi.dev
+DESCRIPTION:https://relic-inc.connpass.com/event/300592/
+LAST-MODIFIED:20231127T184812Z
+LOCATION:東京都港区六本木４丁目８−５ 和幸ビル 4F Kant.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MS Tech Camp #22 Imagine Cup PreEvent+新アンバサダーの紹
+ 介
+DTSTART:20231128T190000
+DTEND:20231128T200000
+DTSTAMP:20231128T183007Z
+UID:connpass_300336@calendar.yamanashi.dev
+DESCRIPTION:https://mspjp.connpass.com/event/300336/
+LAST-MODIFIED:20231128T183007Z
+LOCATION:東京都港区港南 2-16-3 品川グランドセントラルタ
+ ワー マイクロソフト品川オフィス（受付2F）
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MM Tech Hub - ライトニングトーク -
+DTSTART:20231129T190000
+DTEND:20231129T204000
+DTSTAMP:20231117T172652Z
+UID:connpass_301784@calendar.yamanashi.dev
+DESCRIPTION:https://magicmoment.connpass.com/event/301784/
+LAST-MODIFIED:20231117T172652Z
+LOCATION:東京都港区麻布台1-8-10 当社オフィス
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Encraft #9 QA Enablement - Practical Test Design -
+DTSTART:20231129T190000
+DTEND:20231129T213000
+DTSTAMP:20231213T200152Z
+UID:connpass_301142@calendar.yamanashi.dev
+DESCRIPTION:https://knowledgework.connpass.com/event/301142/
+LAST-MODIFIED:20231213T200152Z
+LOCATION:東京都港区西新橋1-6-15 NS虎ノ門ビル（日本酒造
+ 虎ノ門ビル） 11F
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:【オフライン開催】4社のエンジニア責任者が明
+ かす、LLMのプロダクト実装の裏側
+DTSTART:20231130T190000
+DTEND:20231130T210000
+DTSTAMP:20231218T112046Z
+UID:connpass_301676@calendar.yamanashi.dev
+DESCRIPTION:https://lapras.connpass.com/event/301676/
+LAST-MODIFIED:20231218T112046Z
+LOCATION:東京都港区六本木３丁目２−１ 住友不動産六本
+ 木グランドタワー
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kotlin Multiplatform -  Watch Party & Recap
+DTSTART:20231201T190000
+DTEND:20231201T220000
+DTSTAMP:20231127T134333Z
+UID:connpass_303145@calendar.yamanashi.dev
+DESCRIPTION:https://kotlin-tokyo.connpass.com/event/303145/
+LAST-MODIFIED:20231127T134333Z
+LOCATION:東京都港区虎ノ門４丁目１−４０ 江戸見坂森ビ
+ ル8F LiNKX\, Inc.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ツナカン(TUNA-JP Conference) #10
+DTSTART:20231201T190000
+DTEND:20231201T210000
+DTSTAMP:20231206T184012Z
+UID:connpass_299848@calendar.yamanashi.dev
+DESCRIPTION:https://tuna-jp.connpass.com/event/299848/
+LAST-MODIFIED:20231206T184012Z
+LOCATION:東京都港区 芝浦 3 – 1 - 1 田町ステーションタワ
+ ー N 18階 ヴイエムウェア株式会社
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:第51回Software Design (2023年12月号) 輪読&座談会
+DTSTART:20231204T190000
+DTEND:20231204T203000
+DTSTAMP:20231204T210613Z
+UID:connpass_302945@calendar.yamanashi.dev
+DESCRIPTION:https://softwaredesign.connpass.com/event/302945/
+LAST-MODIFIED:20231204T210613Z
+LOCATION:東京都港区三田3-13-16 三田43MTビル14F サイバーソ
+ リューションズ株式会社
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fastly の導入を体験！ 〜ゼロから配信設定の作成
+ 、画像変換をハンズオンで学ぼう〜
+DTSTART:20231206T180000
+DTEND:20231206T200000
+DTSTAMP:20231128T165833Z
+UID:connpass_301144@calendar.yamanashi.dev
+DESCRIPTION:https://connpass.com/event/301144/
+LAST-MODIFIED:20231128T165833Z
+LOCATION:東京都港区新橋3−3−13 (Tsao Hibiya 8階) Fastly Japan 
+ オフィス
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Platform Engineering Meetup #6
+DTSTART:20231206T190000
+DTEND:20231206T210000
+DTSTAMP:20231206T115209Z
+UID:connpass_299834@calendar.yamanashi.dev
+DESCRIPTION:https://platformengineering.connpass.com/event/299834/
+LAST-MODIFIED:20231206T115209Z
+LOCATION:東京都港区台場2-3-2 台場フロンティアビル 12F doc
+ omo R&D OPEN LAB ODAIBA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vonage ハンズオン Vol.1
+DTSTART:20231207T190000
+DTEND:20231207T210000
+DTSTAMP:20231114T081202Z
+UID:connpass_300450@calendar.yamanashi.dev
+DESCRIPTION:https://voug.connpass.com/event/300450/
+LAST-MODIFIED:20231114T081202Z
+LOCATION:東京都港区南青山2-26-1（D-LIFEPLACE南青山10階） Fla
+ tbase
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:#AWSreInvent ふりかえり勉強会 CM re:Growth 2023
+DTSTART:20231208T190000
+DTEND:20231208T210000
+DTSTAMP:20231208T185421Z
+UID:connpass_300363@calendar.yamanashi.dev
+DESCRIPTION:https://classmethod.connpass.com/event/300363/
+LAST-MODIFIED:20231208T185421Z
+LOCATION:東京都港区西新橋1-1-1 日比谷フォートタワー26階
+  クラスメソッド株式会社
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ゆるSRE勉強会 #3
+DTSTART:20231208T193000
+DTEND:20231208T213000
+DTSTAMP:20231208T164706Z
+UID:connpass_299001@calendar.yamanashi.dev
+DESCRIPTION:https://yuru-sre.connpass.com/event/299001/
+LAST-MODIFIED:20231208T164706Z
+LOCATION:東京都港区東新橋1丁目5-2 汐留シティセンター35
+ 階 株式会社タイミー
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:【増枠】GDG DevFest Tokyo 2023
+DTSTART:20231209T100000
+DTEND:20231209T180000
+DTSTAMP:20231211T144827Z
+UID:connpass_301690@calendar.yamanashi.dev
+DESCRIPTION:https://gdg-tokyo.connpass.com/event/301690/
+LAST-MODIFIED:20231211T144827Z
+LOCATION:東京都港区六本木6-11-10 六本木ヒルズ森タワー27F
+  Google Tokyoオフィス
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Serverless Meetup Tokyo #18
+DTSTART:20231211T183000
+DTEND:20231211T210000
+DTSTAMP:20231218T213516Z
+UID:connpass_302761@calendar.yamanashi.dev
+DESCRIPTION:https://serverless.connpass.com/event/302761/
+LAST-MODIFIED:20231218T213516Z
+LOCATION:東京都港区虎ノ門2丁目10-1 虎ノ門ツインビルデ
+ ィング 西棟3階 KDDI DIGITAL GATE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:データの価値を最大限に引き出す！Azure OpenAI Servi
+ ce ワークショップ
+DTSTART:20231211T183000
+DTEND:20231211T210000
+DTSTAMP:20231211T191348Z
+UID:connpass_301552@calendar.yamanashi.dev
+DESCRIPTION:https://hack-everything.connpass.com/event/301552/
+LAST-MODIFIED:20231211T191348Z
+LOCATION:東京都港区港南 2-16-3　(品川グランドセントラル
+ タワー) 本ハンズオンは現地日本マイクロソフト株式会
+ 社 品川本社
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:【増枠】海外StartupのCPOとラクスルCPOが解き明か
+ す実行力の高いプロダクト組織とは
+DTSTART:20231211T190000
+DTEND:20231211T213000
+DTSTAMP:20231209T161311Z
+UID:connpass_303120@calendar.yamanashi.dev
+DESCRIPTION:https://japancpoa.connpass.com/event/303120/
+LAST-MODIFIED:20231209T161311Z
+LOCATION:東京都港区六本木6-10-1  (六本木ヒルズ森タワー) 
+ 株式会社メルカリ
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:個人開発忘年会
+DTSTART:20231212T170000
+DTEND:20231212T210000
+DTSTAMP:20231212T104058Z
+UID:connpass_302649@calendar.yamanashi.dev
+DESCRIPTION:https://admin-guild.connpass.com/event/302649/
+LAST-MODIFIED:20231212T104058Z
+LOCATION:東京都港区六本木４丁目８−５ 和幸ビル 3F 株式
+ 会社GNUS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:基礎から学ぶ次世代WAF 〜誤検知が少ない & 運用
+ 楽々！〜
+DTSTART:20231212T180000
+DTEND:20231212T200000
+DTSTAMP:20231128T165942Z
+UID:connpass_301178@calendar.yamanashi.dev
+DESCRIPTION:https://connpass.com/event/301178/
+LAST-MODIFIED:20231128T165942Z
+LOCATION:東京都港区新橋3−3−13 (Tsao Hibiya 8階) Fastly Japan 
+ オフィス
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OCIjp #47 Oracle Cloud Infrastructure ユーザーグループ
+DTSTART:20231212T190000
+DTEND:20231212T203000
+DTSTAMP:20231212T203756Z
+UID:connpass_303179@calendar.yamanashi.dev
+DESCRIPTION:https://fullenergy-oci.connpass.com/event/303179/
+LAST-MODIFIED:20231212T203756Z
+LOCATION:東京都港区北青山2-5-8　オラクル青山センター 
+ 日本オラクル株式会社　本社
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:【CITP】第2回ネットワーキング - これからの時代
+ の人材育成を考えよう
+DTSTART:20231213T140000
+DTEND:20231213T180000
+DTSTAMP:20231109T152038Z
+UID:connpass_300474@calendar.yamanashi.dev
+DESCRIPTION:https://citp.connpass.com/event/300474/
+LAST-MODIFIED:20231109T152038Z
+LOCATION:東京都港区海岸一丁目7番1号 ソフトバンク@竹芝
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:のの会(notes knows community) 第58回
+DTSTART:20231213T190000
+DTEND:20231213T210000
+DTSTAMP:20231122T133501Z
+UID:connpass_302711@calendar.yamanashi.dev
+DESCRIPTION:https://notesknows.connpass.com/event/302711/
+LAST-MODIFIED:20231122T133501Z
+LOCATION:東京都港区六本木7-6-5(DISSY B1) 侍の台所 ようざん
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DMM meetup #39 ～開発生産性を熱く語る会～
+DTSTART:20231213T193000
+DTEND:20231213T213000
+DTSTAMP:20231214T040725Z
+UID:connpass_301567@calendar.yamanashi.dev
+DESCRIPTION:https://dmm.connpass.com/event/301567/
+LAST-MODIFIED:20231214T040725Z
+LOCATION:東京都港区六本木3-2-1（住友不動産六本木グラン
+ ドタワー24階） DMM.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:飲まずには語れない！？ 事業成長の実現に向け
+ たTRY 〜デザインリーダーたちの振り返り会〜
+DTSTART:20231214T190000
+DTEND:20231214T220000
+DTSTAMP:20231215T125649Z
+UID:connpass_300809@calendar.yamanashi.dev
+DESCRIPTION:https://in-house-designers.connpass.com/event/300809/
+LAST-MODIFIED:20231215T125649Z
+LOCATION:東京都港区六本木4-12-8　第６DMJビル3階 SPOT 六本
+ 木ミッドタウンサイド
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alibaba Cloud Developers Meetup 忘年会 #28
+DTSTART:20231214T190000
+DTEND:20231214T203000
+DTSTAMP:20231214T110318Z
+UID:connpass_302754@calendar.yamanashi.dev
+DESCRIPTION:https://alibabacloud.connpass.com/event/302754/
+LAST-MODIFIED:20231214T110318Z
+LOCATION:東京都港区海岸一丁目 東京ポートシティ竹芝 31F
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:【増枠！】成長ベンチャーの開発生産性、なにや
+ ってる？ 【Developers Meetup】
+DTSTART:20231214T193000
+DTEND:20231214T213000
+DTSTAMP:20231219T110120Z
+UID:connpass_300288@calendar.yamanashi.dev
+DESCRIPTION:https://anotherworks.connpass.com/event/300288/
+LAST-MODIFIED:20231219T110120Z
+LOCATION:東京都港区白金台5-12-7 MG白金台ビル4F ウォンテ
+ ッドリー株式会社
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ベスト・オブ・ブリード忘年会2023
+DTSTART:20231215T180000
+DTEND:20231215T213000
+DTSTAMP:20231213T163416Z
+UID:connpass_303066@calendar.yamanashi.dev
+DESCRIPTION:https://okta.connpass.com/event/303066/
+LAST-MODIFIED:20231213T163416Z
+LOCATION:東京都港区虎ノ門４丁目１−１(神谷町トラスト
+ タワー25階) 神谷町トラストタワー
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:【現地orオンライン】第1回 JAZUG for Women
+DTSTART:20231215T190000
+DTEND:20231215T210000
+DTSTAMP:20231215T202234Z
+UID:connpass_302216@calendar.yamanashi.dev
+DESCRIPTION:https://jazug.connpass.com/event/302216/
+LAST-MODIFIED:20231215T202234Z
+LOCATION:東京都港区港南 2-16-3 (品川グランドセントラル
+ タワー 31階) 日本マイクロソフト株式会社
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workers Tech Talks #2
+DTSTART:20231215T190000
+DTEND:20231215T210000
+DTSTAMP:20231214T091903Z
+UID:connpass_300546@calendar.yamanashi.dev
+DESCRIPTION:https://workers-tech.connpass.com/event/300546/
+LAST-MODIFIED:20231214T091903Z
+LOCATION:東京都港区西新橋1-1-1 日比谷フォートタワー26階
+  クラスメソッド日比谷オフィス
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:【初心者大歓迎】WebRTC Meetup Tokyo #26 (LT会 + 懇親会
+ )
+DTSTART:20231215T192000
+DTEND:20231215T213000
+DTSTAMP:20231215T123232Z
+UID:connpass_301967@calendar.yamanashi.dev
+DESCRIPTION:https://webrtcmeetup.connpass.com/event/301967/
+LAST-MODIFIED:20231215T123232Z
+LOCATION:東京都港区東新橋１丁目５-２ 汐留シティセンタ
+ ー35階 タイミー東京本社（汐留）
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hibiya.Tech #2「Infrastructure as Code（IaC）を語り尽くせ
+ 」
+DTSTART:20231215T193000
+DTEND:20231215T210000
+DTSTAMP:20231218T112941Z
+UID:connpass_302466@calendar.yamanashi.dev
+DESCRIPTION:https://classmethod.connpass.com/event/302466/
+LAST-MODIFIED:20231218T112941Z
+LOCATION:東京都港区西新橋１丁目１−１(日比谷フォート
+ タワー26階) クラスメソッド株式会社日比谷オフィス
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:キックオフイベント@東京_NEMTUS Hackathon HACK+ 2024
+DTSTART:20231216T110000
 DTEND:20231216T170000
-DTSTAMP:20231211T220540Z
-UID:connpass_305024@calendar.yamanashi.dev
-DESCRIPTION:https://ay-house01.connpass.com/event/305024/
-LAST-MODIFIED:20231211T220540Z
-LOCATION:東京都 品川区 旗の台 1-11−9 (路地突き当り) 旗
- の台シェアハウス
+DTSTAMP:20231216T115001Z
+UID:connpass_302463@calendar.yamanashi.dev
+DESCRIPTION:https://nemtus.connpass.com/event/302463/
+LAST-MODIFIED:20231216T115001Z
+LOCATION:東京都港区台場２丁目３−２ 台場フロンティア
+ ビル 12F docomo R&D OPEN LAB ODAIBA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:初めての電子工作ワークショップ(基礎編)
-DTSTART:20231216T180000
-DTEND:20231216T220000
-DTSTAMP:20231217T220031Z
-UID:connpass_304813@calendar.yamanashi.dev
-DESCRIPTION:https://iotlab.connpass.com/event/304813/
-LAST-MODIFIED:20231217T220031Z
-LOCATION:東京都大田区大森北4-16-4 エセナ大田
+SUMMARY:HarborSもくもく会＋交流会@表参道 #114
+DTSTART:20231216T130000
+DTEND:20231216T170000
+DTSTAMP:20231204T171429Z
+UID:connpass_304375@calendar.yamanashi.dev
+DESCRIPTION:https://harbors-kihonjoho.connpass.com/event/304375/
+LAST-MODIFIED:20231204T171429Z
+LOCATION:東京都港区南青山３丁目１５−９ MINOWA表参道 3
+ 階 HarborS表参道
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:12/17 AI競争で需要急増中の「Python」を学んでキャ
- リアアップを目指そう in 東京
-DTSTART:20231217T093000
-DTEND:20231217T113000
-DTSTAMP:20231211T144526Z
-UID:connpass_304790@calendar.yamanashi.dev
-DESCRIPTION:https://techgym-waseda.connpass.com/event/304790/
-LAST-MODIFIED:20231211T144526Z
-LOCATION:東京都新宿区早稲田鶴巻町518（早稲田玉井ビル 3
- 階） GARAGE Coworking Space@Waseda
+SUMMARY:【残りわずか】生成AI×クリエイター大忘年会 12/1
+ 6(土)@新橋
+DTSTART:20231216T130000
+DTEND:20231216T173000
+DTSTAMP:20231214T161836Z
+UID:connpass_302928@calendar.yamanashi.dev
+DESCRIPTION:https://creator-square.connpass.com/event/302928/
+LAST-MODIFIED:20231214T161836Z
+LOCATION:東京都港区東新橋1丁目9-2 汐留住友ビル 21階 株
+ 式会社エクサウィザーズ
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:12/18 AI競争で需要急増中の「Python」を学んでキャ
- リアアップを目指そう in 東京
-DTSTART:20231218T180000
-DTEND:20231218T200000
-DTSTAMP:20231215T105400Z
-UID:connpass_304980@calendar.yamanashi.dev
-DESCRIPTION:https://techgym-waseda.connpass.com/event/304980/
-LAST-MODIFIED:20231215T105400Z
-LOCATION:東京都新宿区早稲田鶴巻町518（早稲田玉井ビル 3
- 階） GARAGE Coworking Space@Waseda
+SUMMARY:HarborSもくもく会＋交流会@表参道 #115
+DTSTART:20231217T130000
+DTEND:20231217T170000
+DTSTAMP:20231205T135318Z
+UID:connpass_304218@calendar.yamanashi.dev
+DESCRIPTION:https://harbors-kihonjoho.connpass.com/event/304218/
+LAST-MODIFIED:20231205T135318Z
+LOCATION:東京都港区南青山３丁目１５−９ MINOWA表参道 3
+ 階 HarborS表参道
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:読者交流会を兼ねたFPGA勉強会in秋葉原
+SUMMARY:第13回CoderDojoたまち
+DTSTART:20231217T140000
+DTEND:20231217T163000
+DTSTAMP:20231119T143708Z
+UID:connpass_302958@calendar.yamanashi.dev
+DESCRIPTION:https://coderdojo-tamachi.connpass.com/event/302958/
+LAST-MODIFIED:20231119T143708Z
+LOCATION:東京都港区芝三丁目41番8号 駐健保会館 中会議室
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cloudflare Meet-up Tokyo Vol.3
 DTSTART:20231218T190000
 DTEND:20231218T210000
-DTSTAMP:20231213T072019Z
-UID:connpass_304177@calendar.yamanashi.dev
-DESCRIPTION:https://fpgastartup.connpass.com/event/304177/
-LAST-MODIFIED:20231213T072019Z
-LOCATION:東京都千代田区外神田3-9-2　末広ビル3F 株式会社
- アールティ
+DTSTAMP:20231213T224603Z
+UID:connpass_303684@calendar.yamanashi.dev
+DESCRIPTION:https://cfm-cts.connpass.com/event/303684/
+LAST-MODIFIED:20231213T224603Z
+LOCATION:東京都港区西新橋1-1-1 日比谷フォートタワー26階
+  クラスメソッド株式会社 日比谷オフィス
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ZettaScale CEO/CTO直伝！Zenoh完全理解セミナー！
+SUMMARY:.NET Night Party@品川
 DTSTART:20231219T190000
-DTEND:20231219T200000
-DTSTAMP:20231219T192644Z
-UID:connpass_304464@calendar.yamanashi.dev
-DESCRIPTION:https://connpass.com/event/304464/
-LAST-MODIFIED:20231219T192644Z
-LOCATION:東京都文京区本郷7-3-1 東京大学本郷キャンパス 
- 工学部6号館3階セミナー室C
+DTEND:20231219T210000
+DTSTAMP:20231219T171157Z
+UID:connpass_303250@calendar.yamanashi.dev
+DESCRIPTION:https://msdevjp.connpass.com/event/303250/
+LAST-MODIFIED:20231219T171157Z
+LOCATION:東京都港区港南 2-16-3 品川グランドセントラルタ
+ ワー 日本マイクロソフト株式会社 品川本社
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:第159回 PHP勉強会＠東京〜年末スペシャル〜
-DTSTART:20231220T193000
-DTEND:20231220T220000
-DTSTAMP:20231217T124916Z
-UID:connpass_304155@calendar.yamanashi.dev
-DESCRIPTION:https://phpstudy.connpass.com/event/304155/
-LAST-MODIFIED:20231217T124916Z
-LOCATION:東京都渋谷区千駄ヶ谷4丁目23-5 (JPR千駄ヶ谷ビル5
- F) ピクシブ株式会社
+SUMMARY:JADOGな忘年会 12月20日(水) 18:30-21:00 ※
+DTSTART:20231220T183000
+DTEND:20231220T210000
+DTSTAMP:20231218T142751Z
+UID:connpass_303875@calendar.yamanashi.dev
+DESCRIPTION:https://jadog.connpass.com/event/303875/
+LAST-MODIFIED:20231218T142751Z
+LOCATION:東京都港区新橋2-20-15 新橋駅前ビル1号館 B1F 一番
+ どり 新橋東口店
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:国際的な技術動向×若手 - プロローグ - 現地参加
-DTSTART:20231221T170000
-DTEND:20231221T190000
-DTSTAMP:20231211T172128Z
-UID:connpass_305002@calendar.yamanashi.dev
-DESCRIPTION:https://connpass.com/event/305002/
-LAST-MODIFIED:20231211T172128Z
-LOCATION:東京都渋谷区道玄坂1丁目2番3号 渋谷フクラス 16
- 階 GMOインターネットグループグループ第２本社　GMO You
- rs・フクラス
+SUMMARY:AWS re:Invent 報告会 re:Port 2023 by SKYARCH
+DTSTART:20231221T190000
+DTEND:20231221T210000
+DTSTAMP:20231219T182909Z
+UID:connpass_300578@calendar.yamanashi.dev
+DESCRIPTION:https://skyarchnetworks.connpass.com/event/300578/
+LAST-MODIFIED:20231219T182909Z
+LOCATION:東京都港区南麻布2-12-3　サイオスビル9F サイオ
+ ステクノロジー株式会社
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:【オフライン開催】FileMaker勉強会 #6
-DTSTART:20231221T193000
-DTEND:20231221T213000
-DTSTAMP:20231212T153338Z
-UID:connpass_305012@calendar.yamanashi.dev
-DESCRIPTION:https://shibuya-lowcode.connpass.com/event/305012/
-LAST-MODIFIED:20231212T153338Z
-LOCATION:東京都渋谷区渋谷2−24−12 WeWork 渋谷スクランブ
- ルスクエア
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DESIGN PRACTICA Vol.1
-DTSTART:20231221T193000
-DTEND:20231221T213000
-DTSTAMP:20231214T143231Z
-UID:connpass_304166@calendar.yamanashi.dev
-DESCRIPTION:https://designpractica.connpass.com/event/304166/
-LAST-MODIFIED:20231214T143231Z
-LOCATION:東京都渋谷区神宮前６丁目２５−１４ JRE神宮前
- メディアスクエアビル 2F 372_Spacemarket-Lounge
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:12/22 AI競争で需要急増中の「Python」を学んでキャ
- リアアップを目指そう in 東京
-DTSTART:20231222T180000
-DTEND:20231222T200000
-DTSTAMP:20231213T093157Z
-UID:connpass_304985@calendar.yamanashi.dev
-DESCRIPTION:https://techgym-waseda.connpass.com/event/304985/
-LAST-MODIFIED:20231213T093157Z
-LOCATION:東京都新宿区早稲田鶴巻町518（早稲田玉井ビル 3
- 階） GARAGE Coworking Space@Waseda
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:第87回 脆弱性診断ええんやで(^^)
-DTSTART:20231222T190000
-DTEND:20231222T210000
-DTSTAMP:20231217T010108Z
-UID:connpass_305104@calendar.yamanashi.dev
-DESCRIPTION:https://security-testing.connpass.com/event/305104/
-LAST-MODIFIED:20231217T010108Z
-LOCATION:東京都中央区新川1-3-4 (PAビル5F) コワーキングス
- ペース茅場町 Co-Edo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MOKU-MOKU WORKSHOP #5
-DTSTART:20231222T200000
-DTEND:20231222T220000
-DTSTAMP:20231219T090039Z
-UID:connpass_305641@calendar.yamanashi.dev
-DESCRIPTION:https://diamond-f.connpass.com/event/305641/
-LAST-MODIFIED:20231219T090039Z
-LOCATION:東京都中央区銀座３丁目８−１３ 銀座三丁目ビ
- ルディング 2F 株式会社ダイヤモンドファンタジー
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:12/23 AI競争で需要急増中の「Python」を学んでキャ
- リアアップを目指そう in 東京
-DTSTART:20231223T093000
-DTEND:20231223T113000
-DTSTAMP:20231214T130924Z
-UID:connpass_304987@calendar.yamanashi.dev
-DESCRIPTION:https://techgym-waseda.connpass.com/event/304987/
-LAST-MODIFIED:20231214T130924Z
-LOCATION:東京都新宿区早稲田鶴巻町518（早稲田玉井ビル 3
- 階） GARAGE Coworking Space@Waseda
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:【大井町線・池上線】 定例もくもく会@旗の台 #09
- 5
-DTSTART:20231223T103000
-DTEND:20231223T170000
-DTSTAMP:20231218T054514Z
-UID:connpass_305543@calendar.yamanashi.dev
-DESCRIPTION:https://ay-house01.connpass.com/event/305543/
-LAST-MODIFIED:20231218T054514Z
-LOCATION:東京都 品川区 旗の台 1-11−9 (路地突き当り) 旗
- の台シェアハウス
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:サウンドミニハッカソン＃29 「サウンド技術」
-DTSTART:20231223T150000
-DTEND:20231223T200000
-DTSTAMP:20231208T120529Z
-UID:connpass_304708@calendar.yamanashi.dev
-DESCRIPTION:https://effectorhack.connpass.com/event/304708/
-LAST-MODIFIED:20231208T120529Z
-LOCATION:東京都中央区日本橋馬喰町2丁目7-15 ザ・パーク
- レックス日本橋馬喰町5F MyDearest株式会社
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:フリーランスエンジニア年報会 2023年@オンライン
-DTSTART:20231223T180000
-DTEND:20231223T190000
-DTSTAMP:20231218T055554Z
-UID:connpass_305544@calendar.yamanashi.dev
-DESCRIPTION:https://fmrm.connpass.com/event/305544/
-LAST-MODIFIED:20231218T055554Z
-LOCATION:東京都 品川区 旗の台 1-11−9 (路地突き当り) 旗
- の台シェアハウス
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ゆるプロ△　IT・プログラミングもくもく会
-DTSTART:20231223T180000
-DTEND:20231223T200000
-DTSTAMP:20231209T190901Z
-UID:connpass_304493@calendar.yamanashi.dev
-DESCRIPTION:https://yurupro-sankaku.connpass.com/event/304493/
-LAST-MODIFIED:20231209T190901Z
-LOCATION:東京都渋谷区恵比寿南1-14-1山口ビル３０２ RIVERLD
- 恵比寿Ｂ
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:12/24 限定開催 エンジニア歴20年の講師に無料で学
- ぶ・現場で活かせるAIスキル
-DTSTART:20231224T093000
-DTEND:20231224T113000
-DTSTAMP:20231214T130937Z
-UID:connpass_305056@calendar.yamanashi.dev
-DESCRIPTION:https://techgym-waseda.connpass.com/event/305056/
-LAST-MODIFIED:20231214T130937Z
-LOCATION:東京都新宿区早稲田鶴巻町518（早稲田玉井ビル 3
- 階） GARAGE Coworking Space@Waseda
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:12/25 AI競争で需要急増中の「Python」を学んでキャ
- リアアップを目指そう in 東京
-DTSTART:20231225T180000
-DTEND:20231225T200000
-DTSTAMP:20231214T130948Z
-UID:connpass_304989@calendar.yamanashi.dev
-DESCRIPTION:https://techgym-waseda.connpass.com/event/304989/
-LAST-MODIFIED:20231214T130948Z
-LOCATION:東京都新宿区早稲田鶴巻町518（早稲田玉井ビル 3
- 階） GARAGE Coworking Space@Waseda
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:【はじめての人向け】無料の設計ソフト「Fusion360
- 」を学んで3Dプリント用データをつくろう
-DTSTART:20231227T163000
-DTEND:20231227T220000
-DTSTAMP:20231206T202933Z
-UID:connpass_304594@calendar.yamanashi.dev
-DESCRIPTION:https://mokuhari.connpass.com/event/304594/
-LAST-MODIFIED:20231206T202933Z
-LOCATION:東京都文京区後楽2丁目14番15号(工作室もくもく
- はりねずみ) 工作室もくもくはりねずみ
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:神田・秋葉原 もくもく会 vol.32
-DTSTART:20231227T190000
-DTEND:20231227T210000
-DTSTAMP:20231217T175141Z
-UID:connpass_305519@calendar.yamanashi.dev
-DESCRIPTION:https://fffff.connpass.com/event/305519/
-LAST-MODIFIED:20231217T175141Z
-LOCATION:東京都千代田区神田多町2-9-6 第2田中ビル 1F FFFFF 
- Cafe
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:【苦悶式】技術英文読解トレーニング　第29回【P
- ainful】
-DTSTART:20231227T190000
-DTEND:20231227T203000
-DTSTAMP:20231214T182230Z
-UID:connpass_305292@calendar.yamanashi.dev
-DESCRIPTION:https://elv.connpass.com/event/305292/
-LAST-MODIFIED:20231214T182230Z
-LOCATION:東京都千代田区平河町1-4-3 (平河町伏見ビル 2F) Co
- -Creation Lab.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:12/28 AI競争で需要急増中の「Python」を学んでキャ
- リアアップを目指そう in 東京
-DTSTART:20231228T180000
-DTEND:20231228T200000
-DTSTAMP:20231220T115140Z
-UID:connpass_304990@calendar.yamanashi.dev
-DESCRIPTION:https://techgym-waseda.connpass.com/event/304990/
-LAST-MODIFIED:20231220T115140Z
-LOCATION:東京都新宿区早稲田鶴巻町518（早稲田玉井ビル 3
- 階） GARAGE Coworking Space@Waseda
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:12/29 AI競争で需要急増中の「Python」を学んでキャ
- リアアップを目指そう in 東京
-DTSTART:20231229T180000
-DTEND:20231229T200000
-DTSTAMP:20231215T113402Z
-UID:connpass_304992@calendar.yamanashi.dev
-DESCRIPTION:https://techgym-waseda.connpass.com/event/304992/
-LAST-MODIFIED:20231215T113402Z
-LOCATION:東京都新宿区早稲田鶴巻町518（早稲田玉井ビル 3
- 階） GARAGE Coworking Space@Waseda
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:もくもく会 & NextJS勉強会 in 蔵前 1/6(土)
-DTSTART:20240106T150000
-DTEND:20240106T180000
-DTSTAMP:20231213T201131Z
-UID:connpass_304535@calendar.yamanashi.dev
-DESCRIPTION:https://programmersguild.connpass.com/event/304535/
-LAST-MODIFIED:20231213T201131Z
-LOCATION:東京都墨田区本所1-34-11 きまま　2F
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Data Dive: Young Analysts Showcase
-DTSTART:20240111T183000
-DTEND:20240111T210000
-DTSTAMP:20231220T134101Z
-UID:connpass_301649@calendar.yamanashi.dev
-DESCRIPTION:https://commmune.connpass.com/event/301649/
-LAST-MODIFIED:20231220T134101Z
-LOCATION:東京都品川区西五反田4-31-18 目黒テクノビル2F コ
- ミューン オフィス
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ISUCON13 公式反省会【参加者限定】
-DTSTART:20240111T183000
-DTEND:20240111T203000
-DTSTAMP:20231208T230718Z
-UID:connpass_304701@calendar.yamanashi.dev
-DESCRIPTION:https://connpass.com/event/304701/
-LAST-MODIFIED:20231208T230718Z
-LOCATION:東京都新宿区西新宿7-20-1住友不動産西新宿ビル 
- さくらインターネット東京支社
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:のの会(notes knows community) 第59回
-DTSTART:20240111T190000
-DTEND:20240111T210000
-DTSTAMP:20231214T141011Z
-UID:connpass_305279@calendar.yamanashi.dev
-DESCRIPTION:https://notesknows.connpass.com/event/305279/
-LAST-MODIFIED:20231214T141011Z
-LOCATION:東京都渋谷区代々木1-21-12(ヤマノ２６ビル) 有限
- 会社アクセル
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Geeks Who Drink in Tokyo ~2024年の抱負 edition~
-DTSTART:20240111T190000
-DTEND:20240111T210000
-DTSTAMP:20231218T102520Z
-UID:connpass_304789@calendar.yamanashi.dev
-DESCRIPTION:https://nulab.connpass.com/event/304789/
-LAST-MODIFIED:20231218T102520Z
-LOCATION:東京都千代田区有楽町2丁目10番1号 メディア総研
-  東京事務所
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drupal Meetup Tokyo #87 - 1/2024 [新年会！オフライン開
- 催]
-DTSTART:20240111T193000
-DTEND:20240111T210000
-DTSTAMP:20231214T115849Z
-UID:connpass_305268@calendar.yamanashi.dev
-DESCRIPTION:https://drupal-tokyo.connpass.com/event/305268/
-LAST-MODIFIED:20231214T115849Z
-LOCATION:東京都渋谷区渋谷2-24-12 渋谷スクランブルスクエ
- ア WeWork 39F
+SUMMARY:第19回 Ras-Duino もくもく会
+DTSTART:20231223T100000
+DTEND:20231223T210000
+DTSTAMP:20231130T214613Z
+UID:connpass_304051@calendar.yamanashi.dev
+DESCRIPTION:https://ras-duino.connpass.com/event/304051/
+LAST-MODIFIED:20231130T214613Z
+LOCATION:東京都港区赤坂８丁目 赤坂８丁目
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Serverless Meetup Tokyo #19
@@ -404,50 +704,15 @@ LOCATION:東京都港区虎ノ門2丁目10-1 虎ノ門ツインビルデ
  ィング 西棟3階 KDDI DIGITAL GATE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:AWS IoT入門ワークショップ（ラズパイとAWS IoTでデ
- ータの送受信をしよう）
-DTSTART:20240113T130000
-DTEND:20240113T170000
-DTSTAMP:20231217T221847Z
-UID:connpass_305470@calendar.yamanashi.dev
-DESCRIPTION:https://iotlab.connpass.com/event/305470/
-LAST-MODIFIED:20231217T221847Z
-LOCATION:東京都大田区大森北4-16-4 エセナ大田
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:【新年スタート！】情報処理安全確保支援士勉強
- 会in恵比寿
-DTSTART:20240113T130000
-DTEND:20240113T180000
-DTSTAMP:20231210T120553Z
-UID:connpass_304709@calendar.yamanashi.dev
-DESCRIPTION:https://connpass.com/event/304709/
-LAST-MODIFIED:20231210T120553Z
-LOCATION:東京都渋谷区広尾1-1-39恵比寿プライムスクエア
- タワー5F 恵比寿会場
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:シニアエンジニアの次を目指せ！スタッフエンジ
- ニアのリアル
-DTSTART:20240116T190000
-DTEND:20240116T210000
-DTSTAMP:20231220T100525Z
-UID:connpass_305549@calendar.yamanashi.dev
-DESCRIPTION:https://globis.connpass.com/event/305549/
-LAST-MODIFIED:20231220T100525Z
-LOCATION:東京都千代田区二番町５−１ 住友不動産麹町ビ
- ル 株式会社グロービス
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Incident Response Meetup vol.1【増枠】
-DTSTART:20240116T190000
-DTEND:20240116T210000
-DTSTAMP:20231215T120940Z
-UID:connpass_304636@calendar.yamanashi.dev
-DESCRIPTION:https://incident-response.connpass.com/event/304636/
-LAST-MODIFIED:20231215T120940Z
-LOCATION:東京都渋谷区神宮前5-52-2 青山オーバルビル 13F Sa
- nsan株式会社 表参道本社 13F
+SUMMARY:第52回Software Design (2024年1月号) 輪読&座談会
+DTSTART:20240115T190000
+DTEND:20240115T203000
+DTSTAMP:20231206T084550Z
+UID:connpass_304394@calendar.yamanashi.dev
+DESCRIPTION:https://softwaredesign.connpass.com/event/304394/
+LAST-MODIFIED:20231206T084550Z
+LOCATION:東京都港区西新橋1-1-1 日比谷フォートタワー26F 
+ クラスメソッド株式会社
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OCIjp #48 Oracle Cloud Infrastructure ユーザーグループ
@@ -459,29 +724,6 @@ DESCRIPTION:https://fullenergy-oci.connpass.com/event/305100/
 LAST-MODIFIED:20231212T195341Z
 LOCATION:東京都港区北青山2-5-8　オラクル青山センター 
  日本オラクル株式会社　本社
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Open QA4AI Conference 2023
-DTSTART:20240117T130000
-DTEND:20240117T180000
-DTSTAMP:20231220T172153Z
-UID:connpass_303295@calendar.yamanashi.dev
-DESCRIPTION:https://qa4ai.connpass.com/event/303295/
-LAST-MODIFIED:20231220T172153Z
-LOCATION:東京都中央区八重洲二丁目2番1号 東京ミッドタ
- ウン八重洲 八重洲セントラルタワー ダイキン工業 東
- 京支社
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MOSA新年会2024
-DTSTART:20240117T183000
-DTEND:20240117T210000
-DTSTAMP:20231219T101247Z
-UID:connpass_305508@calendar.yamanashi.dev
-DESCRIPTION:https://mosa.connpass.com/event/305508/
-LAST-MODIFIED:20231219T101247Z
-LOCATION:東京都渋谷区桜丘町23-21 文化総合センター大和
- 田1F ベルマーレカフェ
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Recommendation Industry Talks #1【増枠】
@@ -508,28 +750,6 @@ LOCATION:東京都港区芝浦3-1-21 株式会社マネーフォワード
  　東京オフィス
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:AIを無駄にしないサービスづくり
-DTSTART:20240117T193000
-DTEND:20240117T213000
-DTSTAMP:20231213T120146Z
-UID:connpass_305102@calendar.yamanashi.dev
-DESCRIPTION:https://pksha-technology.connpass.com/event/305102/
-LAST-MODIFIED:20231213T120146Z
-LOCATION:東京都文京区本郷1丁目28-10 本郷TKビル PKSHA Technol
- ogy TKビル
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:第3木曜LT会 #1
-DTSTART:20240118T180000
-DTEND:20240118T200000
-DTSTAMP:20231218T144746Z
-UID:connpass_302330@calendar.yamanashi.dev
-DESCRIPTION:https://metaps.connpass.com/event/302330/
-LAST-MODIFIED:20231218T144746Z
-LOCATION:東京都渋谷区渋谷２丁目２４−１２ WeWork 渋谷ス
- クランブルスクエア
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:デザイナー新年会 “抱負を発表！各社が目指す
  デザイン組織とは？”
 DTSTART:20240119T190000
@@ -540,64 +760,6 @@ DESCRIPTION:https://connpass.com/event/305573/
 LAST-MODIFIED:20231218T183528Z
 LOCATION:東京都港区芝浦3-1-21 msb Tamachi 田町ステーション
  タワーS 21F 株式会社マネーフォワード 本社オフィス
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:成長を続けるfreeeとマネーフォワードはサービス
- の信頼性をどう担保しているのか？
-DTSTART:20240119T190000
-DTEND:20240119T210000
-DTSTAMP:20231218T150114Z
-UID:connpass_304624@calendar.yamanashi.dev
-DESCRIPTION:https://freee.connpass.com/event/304624/
-LAST-MODIFIED:20231218T150114Z
-LOCATION:東京都品川区大崎1-2-2 アートヴィレッジ大崎セ
- ントラルタワー 19F Asobiba freee株式会社
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ChatGPTを拡張する！ChatGPT APIとLangChainのハンズオン
- 会@東京日本橋
-DTSTART:20240119T190000
-DTEND:20240119T213000
-DTSTAMP:20231214T180206Z
-UID:connpass_302337@calendar.yamanashi.dev
-DESCRIPTION:https://kinto-technologies.connpass.com/event/302337/
-LAST-MODIFIED:20231214T180206Z
-LOCATION:東京都中央区日本橋室町2-3-1 室町古河三井ビル
- ディング(COREDO室町2) KINTOテクノロジーズ株式会社
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Shibuya.apk #46
-DTSTART:20240119T190000
-DTEND:20240119T220000
-DTSTAMP:20231214T131002Z
-UID:connpass_305120@calendar.yamanashi.dev
-DESCRIPTION:https://shibuya-apk.connpass.com/event/305120/
-LAST-MODIFIED:20231214T131002Z
-LOCATION:東京都渋谷区渋谷二丁目24番12号 渋谷スクランブ
- ルスクエア 渋谷スクランブルスクエア 40F DeNAラウンジ
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1/20(土)10:00～　新宿駅オフラインもくもく会
-DTSTART:20240120T100000
-DTEND:20240120T113000
-DTSTAMP:20231216T160035Z
-UID:connpass_305445@calendar.yamanashi.dev
-DESCRIPTION:https://mokumoku-offline-tokyo.connpass.com/event/305445/
-LAST-MODIFIED:20231216T160035Z
-LOCATION:東京都新宿区西新宿7-10-5 イビス東京新宿1F the 3rd
-  burger 新宿大ガード店
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ゆるっと楽しく！PRIME ANSWERもくもく会#3 & 初めて
- のLT in 渋谷 1/20(土)
-DTSTART:20240120T130000
-DTEND:20240120T170000
-DTSTAMP:20231212T135628Z
-UID:connpass_304794@calendar.yamanashi.dev
-DESCRIPTION:https://primeanswer.connpass.com/event/304794/
-LAST-MODIFIED:20231212T135628Z
-LOCATION:東京都渋谷区 恵比寿南1-9-10 ＴＤビル３階 スペ
- ースフォーリアル
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:第14回CoderDojoたまち
@@ -622,27 +784,6 @@ LOCATION:東京都港区港南 2-16-3 品川グランドセントラルタ
  会社
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:WordPressもくもく勉強会@日本橋 #39
-DTSTART:20240120T140000
-DTEND:20240120T180000
-DTSTAMP:20231219T093536Z
-UID:connpass_304315@calendar.yamanashi.dev
-DESCRIPTION:https://wpmokumoku.connpass.com/event/304315/
-LAST-MODIFIED:20231219T093536Z
-LOCATION:東京都中央区新川1-3-4 PAビル5F コワーキングスペ
- ース茅場町 Co-Edo（コエド）
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:もくもく会 & NextJS勉強会 in 蔵前 1/20(土)
-DTSTART:20240120T150000
-DTEND:20240120T180000
-DTSTAMP:20231213T201149Z
-UID:connpass_304536@calendar.yamanashi.dev
-DESCRIPTION:https://programmersguild.connpass.com/event/304536/
-LAST-MODIFIED:20231213T201149Z
-LOCATION:東京都墨田区本所1-34-11 きまま　2F
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:【Data Haiker】第4回 Dataiku無料版ハンズオンでデー
  タスキルをアップしよう！
 DTSTART:20240122T140000
@@ -654,93 +795,50 @@ LAST-MODIFIED:20231220T104917Z
 LOCATION:東京都港区西新橋1-1-1 10F WeWork日比谷Fort Tower
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:クリエイティブ交流会 #3
-DTSTART:20240124T190000
-DTEND:20240124T210000
-DTSTAMP:20231219T160842Z
-UID:connpass_304643@calendar.yamanashi.dev
-DESCRIPTION:https://connpass.com/event/304643/
-LAST-MODIFIED:20231219T160842Z
-LOCATION:東京都渋谷区本町3-12-1 住友不動産西新宿ビル6号
- 館12階 株式会社property technologies
+SUMMARY:【U-30クラス/OPENクラス】テスト設計コンテスト'23
+  決勝戦
+DTSTART:20240127T100000
+DTEND:20240127T173000
+DTSTAMP:20231212T175728Z
+UID:connpass_302077@calendar.yamanashi.dev
+DESCRIPTION:https://aster.connpass.com/event/302077/
+LAST-MODIFIED:20231212T175728Z
+LOCATION:東京都港区港南1-2-70 品川シーズンテラス3F 品川
+ シーズンテラス
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Co-KoNPILe #94 - 新年手作り鍋もくもく会飯田橋出張
- 編
-DTSTART:20240125T173000
-DTEND:20240125T230000
-DTSTAMP:20231218T180618Z
-UID:connpass_305412@calendar.yamanashi.dev
-DESCRIPTION:https://cokonpile.connpass.com/event/305412/
-LAST-MODIFIED:20231218T180618Z
-LOCATION:東京都 新宿区 新小川町 4-21 光風ビル 302 Sabori 飯
- 田橋302
+SUMMARY:第69回 PyLadies & GTUGGirls 「Pythonでデータ分析勉強会
+ 」
+DTSTART:20240127T130000
+DTEND:20240127T160000
+DTSTAMP:20231206T134440Z
+UID:connpass_304447@calendar.yamanashi.dev
+DESCRIPTION:https://gtuggirls.connpass.com/event/304447/
+LAST-MODIFIED:20231206T134440Z
+LOCATION:東京都港区港南 2-16-3 (品川グランドセントラル
+ タワー) 日本マイクロソフト株式会社 品川本社
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:AWS cafeteria #1　〜サイバーエージェント×ゆめみ×
- クラスメソッド 3社共催LT会〜
-DTSTART:20240125T190000
-DTEND:20240125T213000
-DTSTAMP:20231220T115943Z
-UID:connpass_303690@calendar.yamanashi.dev
-DESCRIPTION:https://cyberagent.connpass.com/event/303690/
-LAST-MODIFIED:20231220T115943Z
-LOCATION:東京都渋谷区渋谷2丁目24番12号 渋谷スクランブ
- ルスクエア
+SUMMARY:PyLadies Tokyo Meetup #87 HumbleData Beginners
+DTSTART:20240127T130000
+DTEND:20240127T160000
+DTSTAMP:20231202T135812Z
+UID:connpass_300795@calendar.yamanashi.dev
+DESCRIPTION:https://pyladies-tokyo.connpass.com/event/300795/
+LAST-MODIFIED:20231202T135812Z
+LOCATION:東京都港区港南 2-16-3 (品川グランドセントラル
+ タワー) 日本マイクロソフト株式会社 品川本社
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:集え若手！エンジニア・デザイナー交流LT会
-DTSTART:20240126T190000
-DTEND:20240126T220000
-DTSTAMP:20231214T141125Z
-UID:connpass_304115@calendar.yamanashi.dev
-DESCRIPTION:https://yumemi.connpass.com/event/304115/
-LAST-MODIFIED:20231214T141125Z
-LOCATION:東京都新宿区四谷4丁目28-8パルトビルディング4
- 階 株式会社BuySell Technologiesオフィス
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:JAWS-UG : HPC#19勉強会(リブート)
-DTSTART:20240126T190000
-DTEND:20240126T213000
-DTSTAMP:20231219T113942Z
-UID:connpass_303211@calendar.yamanashi.dev
-DESCRIPTION:https://jawsug-hpc.connpass.com/event/303211/
-LAST-MODIFIED:20231219T113942Z
-LOCATION:東京都品川区上大崎3-1-1 目黒セントラルスクエ
- ア17F アマゾンウェブサービスジャパン 目黒オフィス 17
- F
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:第85回 Machine Learning 15minutes! Broadcast
-DTSTART:20240127T140000
-DTEND:20240127T170000
-DTSTAMP:20231219T130743Z
-UID:connpass_305434@calendar.yamanashi.dev
-DESCRIPTION:https://machine-learning15minutes.connpass.com/event/305434/
-LAST-MODIFIED:20231219T130743Z
-LOCATION:東京都千代田区麹町１丁目４−４ 株式会社LIFULL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:渋谷でもくもく会 meetup@Zhienius #1
-DTSTART:20240127T150000
-DTEND:20240127T180000
-DTSTAMP:20231219T095123Z
-UID:connpass_305626@calendar.yamanashi.dev
-DESCRIPTION:https://connpass.com/event/305626/
-LAST-MODIFIED:20231219T095123Z
-LOCATION:東京都渋谷区神南1-23-14　公園通りビル Regus
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LT&交流会 #3 〜モダンフロント編〜【オフライン
- 開催 in 渋谷】
-DTSTART:20240128T140000
-DTEND:20240128T180000
-DTSTAMP:20231215T120255Z
-UID:connpass_305312@calendar.yamanashi.dev
-DESCRIPTION:https://coopello2.connpass.com/event/305312/
-LAST-MODIFIED:20231215T120255Z
-LOCATION:東京都渋谷区宇田川町37-14 ノーガード渋谷
+SUMMARY:1/29 Money Forward Designers Talk @東京オフィス
+DTSTART:20240129T190000
+DTEND:20240129T210000
+DTSTAMP:20231122T135547Z
+UID:connpass_303027@calendar.yamanashi.dev
+DESCRIPTION:https://moneyforward.connpass.com/event/303027/
+LAST-MODIFIED:20231122T135547Z
+LOCATION:東京都港区芝浦3-1-21 株式会社マネーフォワード
+ 　東京オフィス
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:DMM.swift #1
@@ -754,137 +852,15 @@ LOCATION:東京都港区六本木3-2-1（住友不動産六本木グラン
  ドタワー24階） DMM.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:VS Code Meetup #27
-DTSTART:20240130T190000
-DTEND:20240130T213000
-DTSTAMP:20231213T211940Z
-UID:connpass_303633@calendar.yamanashi.dev
-DESCRIPTION:https://vscode.connpass.com/event/303633/
-LAST-MODIFIED:20231213T211940Z
-LOCATION:東京都千代田区紀尾井町1-3 ガーデンテラス紀尾
- 井町17F LODGE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:めぐろLT #11「2024年の抱負」
-DTSTART:20240130T193000
-DTEND:20240130T214500
-DTSTAMP:20231211T181649Z
-UID:connpass_299991@calendar.yamanashi.dev
-DESCRIPTION:https://meguro-lt.connpass.com/event/299991/
-LAST-MODIFIED:20231211T181649Z
-LOCATION:東京都台東区元浅草三丁目7番1号（住友不動産上
- 野御徒町ビル8階 株式会社ペライチ） 株式会社ペライ
- チ
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:【GMO主催@渋谷】エンジニアさんお悩み相談交流
- 会(ピザ無料食べ放題／毎週火・金曜開催)
-DTSTART:20240202T193000
-DTEND:20240202T210000
-DTSTAMP:20231214T120317Z
-UID:connpass_305154@calendar.yamanashi.dev
-DESCRIPTION:https://gmo-connect.connpass.com/event/305154/
-LAST-MODIFIED:20231214T120317Z
-LOCATION:東京都渋谷区桜丘町26-1セルリアンタワー7F GMOコ
- ネクト株式会社
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:はじめての ChatGPT ハッカソン #2
-DTSTART:20240203T103000
-DTEND:20240203T193000
-DTSTAMP:20231211T183313Z
-UID:connpass_292843@calendar.yamanashi.dev
-DESCRIPTION:https://simpleform.connpass.com/event/292843/
-LAST-MODIFIED:20231211T183313Z
-LOCATION:東京都渋谷区上原三丁目29番1号 代々木上原 Simple
- Form Office
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:第17回FA設備技術勉強会 in TOKYO
-DTSTART:20240203T130000
-DTEND:20240203T170000
-DTSTAMP:20231210T174142Z
-UID:connpass_301303@calendar.yamanashi.dev
-DESCRIPTION:https://fa-study.connpass.com/event/301303/
-LAST-MODIFIED:20231210T174142Z
-LOCATION:東京都品川区大崎2-10-1 BRIDGE TERMINAL – Sony City Osak
- i
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:もくもく会 & NextJS勉強会 in 蔵前 2/3(土)
-DTSTART:20240203T150000
-DTEND:20240203T180000
-DTSTAMP:20231218T155116Z
-UID:connpass_304537@calendar.yamanashi.dev
-DESCRIPTION:https://programmersguild.connpass.com/event/304537/
-LAST-MODIFIED:20231218T155116Z
-LOCATION:東京都墨田区本所1-34-11 きまま　2F
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SDV時代のアーキテクチャーMEETUP ～BEVから自動運
- 転
-DTSTART:20240205T183000
-DTEND:20240205T200000
-DTSTAMP:20231218T202230Z
-UID:connpass_303809@calendar.yamanashi.dev
-DESCRIPTION:https://tier4.connpass.com/event/303809/
-LAST-MODIFIED:20231218T202230Z
-LOCATION:東京都品川区北品川1-12-10 ジャコムビル TIER IV 品
- 川オフィス
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:C++ MIX #9
-DTSTART:20240209T190000
-DTEND:20240209T210000
-DTSTAMP:20231219T181340Z
-UID:connpass_305699@calendar.yamanashi.dev
-DESCRIPTION:https://cppmix.connpass.com/event/305699/
-LAST-MODIFIED:20231219T181340Z
-LOCATION:東京都千代田区大手町1-6-1大手町ビル 3F 352区画 
- 株式会社Preferred Networks
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CoderDojoまちだ　第５５回
-DTSTART:20240212T133000
-DTEND:20240212T163000
-DTSTAMP:20231214T124939Z
-UID:connpass_305195@calendar.yamanashi.dev
-DESCRIPTION:https://coderdojo-machida.connpass.com/event/305195/
-LAST-MODIFIED:20231214T124939Z
-LOCATION:東京都町田市原町田４丁目９−８ サウスフロン
- トタワー町田内 町田市民フォーラム
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:「P3NFEST」学生のためのサイバーセキュリティカ
- ンファレンス
-DTSTART:20240217T120000
-DTEND:20240217T190000
-DTSTAMP:20231213T135002Z
-UID:connpass_304408@calendar.yamanashi.dev
-DESCRIPTION:https://boost.connpass.com/event/304408/
-LAST-MODIFIED:20231213T135002Z
-LOCATION:東京都品川区 オフライン（東京都品川区で最終
- 調整中）及びオンラインのハイブリッド開催
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:第22回 酒とゲームとインフラとGCP @ Akatsuki Games
-DTSTART:20240308T193000
-DTEND:20240308T213000
-DTSTAMP:20231207T190129Z
-UID:connpass_304595@calendar.yamanashi.dev
-DESCRIPTION:https://sake-game.connpass.com/event/304595/
-LAST-MODIFIED:20231207T190129Z
-LOCATION:東京都品川区上大崎2-13-30 oak meguro 8階 株式会社
- アカツキ
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Web Speed Hackathon 2024  【一般応募用】
-DTSTART:20240323T100000
-DTEND:20240324T190000
-DTSTAMP:20231211T103137Z
-UID:connpass_300386@calendar.yamanashi.dev
-DESCRIPTION:https://cyberagent.connpass.com/event/300386/
-LAST-MODIFIED:20231211T103137Z
-LOCATION:東京都渋谷区宇田川町40‐1 AbemaTowers
+SUMMARY:PLATEAU AWARD 2023 最終審査会・表彰式（一般観覧募
+ 集）
+DTSTART:20240224T130000
+DTEND:20240224T173000
+DTSTAMP:20231208T105746Z
+UID:connpass_303782@calendar.yamanashi.dev
+DESCRIPTION:https://connpass.com/event/303782/
+LAST-MODIFIED:20231208T105746Z
+LOCATION:東京都港区海岸１丁目７−１ 東京ポートシティ
+ 竹芝
 END:VEVENT
 END:VCALENDAR
