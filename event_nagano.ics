@@ -7,17 +7,6 @@ X-WR-CALDESC:長野県で開催されるIT勉強会イベントカレン
 X-WR-CALNAME:IT勉強会 - 長野県
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
-SUMMARY:Cloudflare Meetup Nagano Vol.2
-DTSTART:20231014T150000
-DTEND:20231014T170000
-DTSTAMP:20231013T223522Z
-UID:connpass_295067@calendar.yamanashi.dev
-DESCRIPTION:https://cfm-cts.connpass.com/event/295067/
-LAST-MODIFIED:20231013T223522Z
-LOCATION:長野県長野市南千歳１丁目１７−４ （株）ケイ
- ケンシステム
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:kintone Café 白馬 Vol.1
 DTSTART:20231111T130000
 DTEND:20231111T173000
@@ -95,5 +84,17 @@ DESCRIPTION:https://shiojiri-cyber.connpass.com/event/302613/
 LAST-MODIFIED:20240129T125914Z
 LOCATION:長野県塩尻市大門八番町1番2号 塩尻インキュベ
  ーションプラザ
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:オープンデータ x i-都市再生 で 地域課題を解決
+ するアイデアソン＠長野県諏訪エリア
+DTSTART:20240309T100000
+DTEND:20240309T160000
+DTSTAMP:20240131T132014Z
+UID:connpass_306066@calendar.yamanashi.dev
+DESCRIPTION:https://suwa.connpass.com/event/306066/
+LAST-MODIFIED:20240131T132014Z
+LOCATION:長野県茅野市ちの３５０２−１ ワークラボ八ヶ
+ 岳（茅野駅前ベルビア2F）
 END:VEVENT
 END:VCALENDAR
