@@ -1422,13 +1422,24 @@ LOCATION:東京都港区高輪4-11-16 京急第11ビル 5階 TKPガーデ
  ンシティPREMIUM品川 ホール5A
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:品川駅オフラインもくもく会
+DTSTART:20240214T190000
+DTEND:20240214T210000
+DTSTAMP:20240209T110520Z
+UID:connpass_309637@calendar.yamanashi.dev
+DESCRIPTION:https://mokumoku-offline-tokyo.connpass.com/event/309637/
+LAST-MODIFIED:20240209T110520Z
+LOCATION:東京都港区高輪3-26-27 エキュート品川 2F 常陸野
+ ブルーイング 品川（Hitachino Brewing）
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Hack Azure! #15 - Cosmos DB Fan Meeting
 DTSTART:20240214T193000
 DTEND:20240214T211000
-DTSTAMP:20240205T141924Z
+DTSTAMP:20240209T115810Z
 UID:connpass_308923@calendar.yamanashi.dev
 DESCRIPTION:https://hack-everything.connpass.com/event/308923/
-LAST-MODIFIED:20240205T141924Z
+LAST-MODIFIED:20240209T115810Z
 LOCATION:東京都港区港南 2-16-3 品川グランドセントラルタ
  ワー 日本マイクロソフト品川本社
 END:VEVENT
@@ -1489,6 +1500,17 @@ DESCRIPTION:https://mspjp.connpass.com/event/306104/
 LAST-MODIFIED:20240125T210921Z
 LOCATION:東京都港区港南 2-16-3 品川グランドセントラルタ
  ワー 日本マイクロソフト品川オフィス
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:品川駅オフラインもくもく会
+DTSTART:20240216T190000
+DTEND:20240216T210000
+DTSTAMP:20240209T110504Z
+UID:connpass_310145@calendar.yamanashi.dev
+DESCRIPTION:https://mokumoku-offline-tokyo.connpass.com/event/310145/
+LAST-MODIFIED:20240209T110504Z
+LOCATION:東京都港区高輪3-26-27 エキュート品川 2F 常陸野
+ ブルーイング 品川（Hitachino Brewing）
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Microsoft 365 + Power Platform ハッカソン
@@ -1553,6 +1575,17 @@ UID:connpass_308346@calendar.yamanashi.dev
 DESCRIPTION:https://coderdojo-tamachi.connpass.com/event/308346/
 LAST-MODIFIED:20240120T190622Z
 LOCATION:東京都港区芝三丁目41番8号 駐健保会館 中会議室
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:数理最適化: Optimization Night #8
+DTSTART:20240219T190000
+DTEND:20240219T210000
+DTSTAMP:20240208T175051Z
+UID:connpass_308608@calendar.yamanashi.dev
+DESCRIPTION:https://optimization.connpass.com/event/308608/
+LAST-MODIFIED:20240208T175051Z
+LOCATION:東京都港区六本木三丁目1番1号 六本木ティーキ
+ ューブ 株式会社ブレインパッド
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OCIjp #49 Oracle Cloud Infrastructure ユーザーグループ
@@ -1720,6 +1753,17 @@ LOCATION:東京都港区虎ノ門2-6-1 虎ノ門ヒルズ ステーショ
  ンタワー 36F 株式会社CARTA HOLDINGS本社
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Encraft #11 LLMとエンタープライズの距離感
+DTSTART:20240228T190000
+DTEND:20240228T213000
+DTSTAMP:20240209T115031Z
+UID:connpass_309925@calendar.yamanashi.dev
+DESCRIPTION:https://connpass.com/event/309925/
+LAST-MODIFIED:20240209T115031Z
+LOCATION:東京都港区西新橋1-6-15 NS虎ノ門ビル（日本酒造
+ 虎ノ門ビル） 11F
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:【ログラス×ラクス】PdM Meetup ～製品・組織フェ
  ーズによって異なるPdMの役割や考え方〜
 DTSTART:20240306T190000
@@ -1730,6 +1774,17 @@ DESCRIPTION:https://loglass-tech.connpass.com/event/308736/
 LAST-MODIFIED:20240130T232355Z
 LOCATION:東京都港区芝５丁目３３−１ 森永プラザビル 21
  階 株式会社ログラス本社
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vue.js v-tokyo Meetup #19
+DTSTART:20240306T190000
+DTEND:20240306T213000
+DTSTAMP:20240209T121144Z
+UID:connpass_309755@calendar.yamanashi.dev
+DESCRIPTION:https://vuejs-meetup.connpass.com/event/309755/
+LAST-MODIFIED:20240209T121144Z
+LOCATION:東京都港区海岸1丁目2番20号 汐留ビルディング 18
+ F 株式会社オプティム
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:【現地orオンライン】第2回 JAZUG for Women
@@ -1752,6 +1807,18 @@ DESCRIPTION:https://softwaredesign.connpass.com/event/309841/
 LAST-MODIFIED:20240205T232620Z
 LOCATION:東京都港区海岸一丁目7番1号 ソフトバンク株式
  会社
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AIの今と「これから」を読み解く〜 最新AIサービ
+ スを学んで、もぐもぐ交流しよう〜
+DTSTART:20240314T180000
+DTEND:20240314T210000
+DTSTAMP:20240209T101041Z
+UID:connpass_309814@calendar.yamanashi.dev
+DESCRIPTION:https://cto-a.connpass.com/event/309814/
+LAST-MODIFIED:20240209T101041Z
+LOCATION:東京都港区赤坂9-7-1 東京ミッドタウンホール＆
+ カンファレンス4階　Room5/6
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elixir/Phoenix 勉強会＋採用事例紹介
@@ -1855,10 +1922,10 @@ BEGIN:VEVENT
 SUMMARY:第9回知財若手の会
 DTSTART:20240413T140000
 DTEND:20240413T180000
-DTSTAMP:20240208T120107Z
+DTSTAMP:20240208T163414Z
 UID:connpass_309801@calendar.yamanashi.dev
 DESCRIPTION:https://chizawaka.connpass.com/event/309801/
-LAST-MODIFIED:20240208T120107Z
+LAST-MODIFIED:20240208T163414Z
 LOCATION:東京都港区新橋2-20-15（新橋駅前ビル1号館6階） 
  ビステーション新橋
 END:VEVENT
