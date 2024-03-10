@@ -1717,10 +1717,10 @@ SUMMARY:$phper->tearDown()\; // PHPerKaigi翌日の非公式ゆるもく
  もく会
 DTSTART:20240310T120000
 DTEND:20240310T170000
-DTSTAMP:20240306T234947Z
+DTSTAMP:20240310T122005Z
 UID:connpass_312764@calendar.yamanashi.dev
 DESCRIPTION:https://connpass.com/event/312764/
-LAST-MODIFIED:20240306T234947Z
+LAST-MODIFIED:20240310T122005Z
 LOCATION:東京都渋谷区千駄ヶ谷4丁目23-5 (JPR千駄ヶ谷ビル5
  F) ピクシブ株式会社
 END:VEVENT
@@ -1828,10 +1828,10 @@ BEGIN:VEVENT
 SUMMARY:【3/18(月) 19:00~】生成AI勉強会&交流会
 DTSTART:20240318T190000
 DTEND:20240318T213000
-DTSTAMP:20240308T010133Z
+DTSTAMP:20240310T080952Z
 UID:connpass_311273@calendar.yamanashi.dev
 DESCRIPTION:https://creator-square.connpass.com/event/311273/
-LAST-MODIFIED:20240308T010133Z
+LAST-MODIFIED:20240310T080952Z
 LOCATION:東京都渋谷区代々木１丁目３５−１ 株式会社イ
  ノベイティア
 END:VEVENT
@@ -1921,19 +1921,6 @@ LOCATION:東京都渋谷区渋谷２丁目２４−１２ WeWork 渋谷ス
  クランブルスクエア
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Admob運用 基本編:メディエーションとは何？バナ
- ー、リワード、起動時広告
-DTSTART:20240322T150000
-DTEND:20240322T170000
-DTSTAMP:20240307T125446Z
-UID:connpass_312816@calendar.yamanashi.dev
-DESCRIPTION:https://google-admob-japan.connpass.com/event/312816/
-LAST-MODIFIED:20240307T125446Z
-LOCATION:東京都渋谷区渋谷3-21-3 (渋谷ストリーム) グーグ
- ルジャパン 渋谷オフィス グーグルジャパン 渋谷オフ
- ィス 4F Google for Startups キャンパス
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Web Speed Hackathon 2024  【一般応募用】
 DTSTART:20240323T100000
 DTEND:20240324T190000
@@ -1958,10 +1945,10 @@ BEGIN:VEVENT
 SUMMARY:.NETラボ 勉強会 2024年3月(AD\, AOAIなど)
 DTSTART:20240323T130000
 DTEND:20240323T180000
-DTSTAMP:20240308T142433Z
+DTSTAMP:20240309T151543Z
 UID:connpass_311594@calendar.yamanashi.dev
 DESCRIPTION:https://dotnetlab.connpass.com/event/311594/
-LAST-MODIFIED:20240308T142433Z
+LAST-MODIFIED:20240309T151543Z
 LOCATION:東京都渋谷区千駄ヶ谷4-23-5 (JPR千駄ヶ谷ビル5階) 
  ピクシブ株式会社本社ビル
 END:VEVENT
@@ -2076,6 +2063,19 @@ DESCRIPTION:https://sansan.connpass.com/event/312187/
 LAST-MODIFIED:20240304T113334Z
 LOCATION:東京都渋谷区神宮前5-52-2 青山オーバルビル 13F Sa
  nsan株式会社
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[3月29日]Admob運用 基本編:メディエーション、バナ
+ ー、リワード、起動時広告
+DTSTART:20240329T153000
+DTEND:20240329T180000
+DTSTAMP:20240310T101544Z
+UID:connpass_312816@calendar.yamanashi.dev
+DESCRIPTION:https://google-admob-japan.connpass.com/event/312816/
+LAST-MODIFIED:20240310T101544Z
+LOCATION:東京都渋谷区渋谷3-21-3 (渋谷ストリーム) グーグ
+ ルジャパン 渋谷オフィス グーグルジャパン 渋谷オフ
+ ィス 4F Google for Startups キャンパス
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:【ゲーム開発/Go】Ebitengine ぷちConf #2【ゆるいLTと
