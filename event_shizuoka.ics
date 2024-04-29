@@ -47,7 +47,7 @@ UID:connpass_306187@calendar.yamanashi.dev
 DESCRIPTION:https://coderdojo-hamamatsu.connpass.com/event/306187/
 LAST-MODIFIED:20240128T151146Z
 LOCATION:静岡県浜松市中区鴨江町1番地 浜松市鴨江アート
- センター
+ センター(201号室)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:日本Androidの会浜松支部 第151回ミーティング
@@ -80,7 +80,7 @@ UID:connpass_309144@calendar.yamanashi.dev
 DESCRIPTION:https://coderdojo-hamamatsu.connpass.com/event/309144/
 LAST-MODIFIED:20240218T135623Z
 LOCATION:静岡県浜松市中区鴨江町1番地 浜松市鴨江アート
- センター
+ センター(201号室)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:日本Androidの会浜松支部 第152回ミーティング
@@ -156,5 +156,16 @@ DESCRIPTION:https://coderdojo-hamamatsu.connpass.com/event/314994/
 LAST-MODIFIED:20240331T223407Z
 LOCATION:静岡県浜松市中央区鴨江町1番地 浜松市鴨江アー
  トセンター（201号室）
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:第96回CoderDojo浜松
+DTSTART:20240526T133000
+DTEND:20240526T153000
+DTSTAMP:20240428T174732Z
+UID:connpass_317755@calendar.yamanashi.dev
+DESCRIPTION:https://coderdojo-hamamatsu.connpass.com/event/317755/
+LAST-MODIFIED:20240428T174732Z
+LOCATION:静岡県浜松市中区鴨江町1番地 浜松市鴨江アート
+ センター(201号室)
 END:VEVENT
 END:VCALENDAR
