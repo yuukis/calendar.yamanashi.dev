@@ -168,4 +168,15 @@ LOCATION:山梨県甲府市丸の内２丁目３５−１ やまなし地
  域づくり交流センター やまなし地域づくり交流センタ
  ー 第4会議室
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JAWS-UG山梨 【第1回】勉強会
+DTSTART:20240906T190000
+DTEND:20240906T203000
+DTSTAMP:20240620T074616Z
+UID:connpass_322740@calendar.yamanashi.dev
+DESCRIPTION:https://jaws-ug-yamanashi.connpass.com/event/322740/
+LAST-MODIFIED:20240620T074616Z
+LOCATION:山梨県甲府市丸の内2-2-1（CROSS500 5F） アドバンス
+ テクノロジー株式会社 本社・甲府開発センター
+END:VEVENT
 END:VCALENDAR
