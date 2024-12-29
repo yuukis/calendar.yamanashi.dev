@@ -397,4 +397,17 @@ LAST-MODIFIED:20241125T202906Z
 LOCATION:〒400-0812 山梨県甲府市和戸町 1303 山梨県立青少
  年センター
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Shingen.py] Pythonで学ぶ！"やまなしデータプラット
+ フォーム"活用ハンズオン
+DTSTART:20250202T133000
+DTEND:20250202T173000
+DTSTAMP:20241227T195331Z
+UID:connpass_340983@calendar.yamanashi.dev
+DESCRIPTION:https://shingenpy.connpass.com/event/340983/
+LAST-MODIFIED:20241227T195331Z
+LOCATION:山梨県甲府市丸の内２丁目３５−１ やまなし地
+ 域づくり交流センター やまなし地域づくり交流センタ
+ ー 大会議室
+END:VEVENT
 END:VCALENDAR
