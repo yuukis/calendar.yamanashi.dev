@@ -437,6 +437,18 @@ LOCATION:山梨県甲府市 丸の内2-29-6（クロリスダイタ4F） 4
  U-Yamanashi
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:子ども向けプログラミングクラブ コーダー道場
+ 甲府#39
+DTSTART:20250420T093000
+DTEND:20250420T113000
+DTSTAMP:20250318T133018Z
+UID:connpass_349581@calendar.yamanashi.dev
+DESCRIPTION:https://coderdojokofu.connpass.com/event/349581/
+LAST-MODIFIED:20250318T133018Z
+LOCATION:〒400-0812 山梨県甲府市和戸町 1303 山梨県立青少
+ 年センター
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:甲斐国もくもく会 x 山梨WordPress Meetup 〜春のLT大
  会〜
 DTSTART:20250427T140000
