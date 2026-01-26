@@ -953,6 +953,17 @@ LOCATION:〒400-0812 山梨県甲府市和戸町 1303 山梨県立青少
  年センター
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:甲斐国もくもく会 #24 (甲府/オンライン)
+DTSTART:20260222T133000
+DTEND:20260222T170000
+DTSTAMP:20260125T080757Z
+UID:event_379794@connpass.com
+DESCRIPTION:https://kainokuni.connpass.com/event/379794/
+LAST-MODIFIED:20260125T080757Z
+LOCATION:山梨県甲府市北口２丁目８−１ 山梨県立図書館 
+ 山梨県立図書館 交流ルーム 102
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:出張版！甲斐国もくもく会 in 都留市 (都留/オン
  ライン)
 DTSTART:20260426T133000
