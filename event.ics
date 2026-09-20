@@ -1436,6 +1436,18 @@ LOCATION:山梨県甲府市北口２丁目８−１ 山梨県立図書館
  山梨県立図書館 交流ルーム 101
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:子ども向けプログラミングクラブ コーダー道場
+ 甲府#56
+DTSTART:20261018T093000
+DTEND:20261018T113000
+DTSTAMP:20260919T002518Z
+UID:event_407443@connpass.com
+DESCRIPTION:https://coderdojokofu.connpass.com/event/407443/
+LAST-MODIFIED:20260919T002518Z
+LOCATION:〒400-0812 山梨県甲府市和戸町 1303 山梨県立青少
+ 年センター
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:出張版！甲斐国もくもく会 in 身延 (身延山/オン
  ライン)
 DTSTART:20261025T103000
